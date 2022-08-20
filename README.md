@@ -1,2 +1,2 @@
-# pomodoro
-Pomodoro timer in Rails/React
+# Flow
+Flow helper in Rails/React
