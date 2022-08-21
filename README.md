@@ -1,2 +1,2 @@
 # Flow
-Flow helper in Rails/React
+Flow helper
